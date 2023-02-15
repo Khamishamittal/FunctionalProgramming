@@ -1,1 +1,1 @@
- Welcome to FunctionalProgramming Problems
+ Welcome to Functional Programming Problems
